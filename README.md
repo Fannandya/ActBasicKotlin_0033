@@ -8,6 +8,9 @@
 ![stringTemplate](ss/stringTemplate.png)
 ![list](ss/list.png)
 ![set](ss/set.png)
+![map](ss/map.png)
+
+
 
 
 
