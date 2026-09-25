@@ -18,6 +18,7 @@
 ![functionWithoutReturn](ss/functionWithoutReturn.png)
 ![lambdaExpressions](ss/lambdaExpressions.png)
 ![createInstance](ss/createInstance.png)
+![accessProperties](ss/accessProperties.png)
 
 
 
