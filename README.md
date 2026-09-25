@@ -15,6 +15,11 @@
 ![function](ss/function.png)
 ![namedArgument](ss/namedArgument.png)
 ![defaultParameterValues](ss/defaultParameterValues.png)
+![functionWithoutReturn](ss/functionWithoutReturn.png)
+![lambdaExpressions](ss/lambdaExpressions.png)
+![createInstance](ss/createInstance.png)
+
+
 
 
 
