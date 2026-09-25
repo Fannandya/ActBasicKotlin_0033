@@ -21,6 +21,10 @@
 ![accessProperties](ss/accessProperties.png)
 ![memberFunction](ss/memberFunction.png)
 ![copyInstances](ss/copyInstances.png)
+![nullableTypes](ss/nullableTypes.png)
+![nullValues](ss/nullValues.png)
+
+
 
 
 
