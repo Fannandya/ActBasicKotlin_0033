@@ -19,6 +19,10 @@
 ![lambdaExpressions](ss/lambdaExpressions.png)
 ![createInstance](ss/createInstance.png)
 ![accessProperties](ss/accessProperties.png)
+![memberFunction](ss/memberFunction.png)
+![copyInstances](ss/copyInstances.png)
+
+
 
 
 
