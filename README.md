@@ -13,6 +13,8 @@
 ![when](ss/when.png)
 ![loopfor](ss/loopfor.png)
 ![function](ss/function.png)
+![namedArgument](ss/namedArgument.png)
+
 
 
 
