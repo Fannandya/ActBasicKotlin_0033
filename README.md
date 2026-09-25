@@ -23,6 +23,8 @@
 ![copyInstances](ss/copyInstances.png)
 ![nullableTypes](ss/nullableTypes.png)
 ![nullValues](ss/nullValues.png)
+![safeCalls](ss/safeCalls.png)
+
 
 
 
