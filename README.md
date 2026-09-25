@@ -6,6 +6,8 @@
 
 ![helloWorld](ss/helloWorld.png)
 ![stringTemplate](ss/stringTemplate.png)
+![list](ss/list.png)
+
 
 
 
