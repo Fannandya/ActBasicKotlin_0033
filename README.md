@@ -12,6 +12,8 @@
 ![if](ss/if.png)
 ![when](ss/when.png)
 ![loopfor](ss/loopfor.png)
+![function](ss/function.png)
+
 
 
 
