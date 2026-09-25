@@ -24,6 +24,8 @@
 ![nullableTypes](ss/nullableTypes.png)
 ![nullValues](ss/nullValues.png)
 ![safeCalls](ss/safeCalls.png)
+![elvisOperator](ss/elvisOperator.png)
+
 
 
 
