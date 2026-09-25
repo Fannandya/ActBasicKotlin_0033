@@ -2,5 +2,11 @@
 # NIM: 20240140033
 # Kelas: D
 
-# Screenshoot 
+# Screenshoot
+
+![helloWorld](ss/helloWorld.png)
+![stringTemplate](ss/stringTemplate.png)
+
+
+
 
